@@ -1,0 +1,18 @@
+﻿{
+  "Name": "[PFM] KEG QUALITY",
+  "Author": "GranAnt",
+  "Version": "1.0.1",
+  "Description": "El barril produce productos de calidad con cosechas de calidad.",
+  "UniqueID": "GranAnt.KEGQUALITY",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ "Nexus:" ],
+  "Dependencies": [
+    {
+      "UniqueID": "Digus.ProducerFrameworkMod",
+      "MinimumVersion": "1.4.0"
+    }
+  ],
+  "ContentPackFor": {
+    "UniqueID": "Digus.ProducerFrameworkMod"
+  }
+}

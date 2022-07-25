@@ -1,0 +1,196 @@
+[
+	// PFM Oil Pro...bably
+
+	{ // Bug Meat
+	"ProducerName": "Oil Maker",
+	"InputIdentifier": "Bug Meat",
+	"MinutesUntilReady": 500,
+	"KeepInputQuality": true,
+	"OutputIdentifier": "Oil",
+	"Probability": "0.1",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"Sounds": [ "Ship" ]
+	},
+
+	{ // Crab
+	"ProducerName": "Oil Maker",
+	"InputIdentifier": "Crab",
+	"MinutesUntilReady": 500,
+	"KeepInputQuality": true,
+	"OutputIdentifier": "Oil",
+	"Probability": "0.1",
+	"OutputStack": 3,
+	"OutputMaxStack": 5,
+	"Sounds": [ "Ship" ]
+	},
+
+	{ // Shrimp
+	"ProducerName": "Oil Maker",
+	"InputIdentifier": "Shrimp",
+	"MinutesUntilReady": 500,
+	"KeepInputQuality": true,
+	"OutputIdentifier": "Oil",
+	"Probability": "0.1",
+	"OutputStack": 2,
+	"OutputMaxStack": 3,
+	"Sounds": [ "Ship" ]
+	},
+
+	{ // Crayfish
+	"ProducerName": "Oil Maker",
+	"InputIdentifier": "Crayfish",
+	"MinutesUntilReady": 500,
+	"KeepInputQuality": true,
+	"OutputIdentifier": "Oil",
+	"Probability": "0.1",
+	"OutputStack": 2,
+	"OutputMaxStack": 4,
+	"Sounds": [ "Ship" ]
+	},
+
+	{ // Lobster
+	"ProducerName": "Oil Maker",
+	"InputIdentifier": "Lobster",
+	"MinutesUntilReady": 500,
+	"KeepInputQuality": true,
+	"OutputIdentifier": "Oil",
+	"Probability": "0.1",
+	"OutputStack": 3,
+	"OutputMaxStack": 5,
+	"Sounds": [ "Ship" ]
+	},
+
+	{ // Sunflower
+	"ProducerName": "Oil Maker",
+	"InputIdentifier": "Sunflower",
+	"MinutesUntilReady": 500,
+	"KeepInputQuality": true,
+	"OutputIdentifier": "Oil",
+	"Probability": "0.1",
+	"OutputStack": 1,
+	"OutputMaxStack": 3,
+	"Sounds": [ "Ship" ]
+	},
+
+	{ // Poppy
+	"ProducerName": "Oil Maker",
+	"InputIdentifier": "Poppy",
+	"MinutesUntilReady": 500,
+	"KeepInputQuality": true,
+	"OutputIdentifier": "Oil",
+	"Probability": "0.1",
+	"OutputStack": 1,
+	"OutputMaxStack": 3,
+	"Sounds": [ "Ship" ]
+	},
+
+	{ // Poppy Seeds
+	"ProducerName": "Oil Maker",
+	"InputIdentifier": "Poppy Seeds",
+	"MinutesUntilReady": 500,
+	"KeepInputQuality": false,
+	"OutputIdentifier": "Oil",
+	"Probability": "0.1",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"Sounds": [ "Ship" ]
+	},
+
+	{ // Unmilled Rice
+	"ProducerName": "Oil Maker",
+	"InputIdentifier": "Unmilled Rice",
+	"MinutesUntilReady": 500,
+	"KeepInputQuality": true,
+	"OutputIdentifier": "Oil",
+	"Probability": "0.1",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"Sounds": [ "Ship" ]
+ 	},
+
+	{ // Grape
+	"ProducerName": "Oil Maker",
+	"InputIdentifier": "Grape",
+	"MinutesUntilReady": 500,
+	"KeepInputQuality": true,
+	"OutputIdentifier": "Oil",
+	"Probability": "0.1",
+	"OutputStack": 2,
+	"OutputMaxStack": 3,
+	"Sounds": [ "Ship" ]
+ 	},
+
+	{ // Coconut
+	"ProducerName": "Oil Maker",
+	"InputIdentifier": "Coconut",
+	"MinutesUntilReady": 500,
+	"KeepInputQuality": true,
+	"OutputIdentifier": "Oil",
+	"Probability": "0.1",
+	"OutputStack": 3,
+	"OutputMaxStack": 6,
+	"Sounds": [ "Ship" ]
+ 	},
+
+	{ // Corn
+	"ProducerName": "Oil Maker",
+	"InputIdentifier": "Corn",
+	"MinutesUntilReady": 500,
+	"KeepInputQuality": true,
+	"OutputIdentifier": "Oil",
+	"Probability": "0.1",
+	"OutputStack": 1,
+	"OutputMaxStack": 3,
+	"Sounds": [ "Ship" ]
+ 	},
+
+	{ // Sunflower Seeds
+	"ProducerName": "Oil Maker",
+	"InputIdentifier": "Sunflower Seeds",
+	"MinutesUntilReady": 500,
+	"KeepInputQuality": false,
+	"OutputIdentifier": "Oil",
+	"Probability": "0.1",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"Sounds": [ "Ship" ]
+ 	},
+
+	{ // Pumpkin Seeds
+	"ProducerName": "Oil Maker",
+	"InputIdentifier": "Pumpkin Seeds",
+	"MinutesUntilReady": 500,
+	"KeepInputQuality": false,
+	"OutputIdentifier": "Oil",
+	"Probability": "0.1",
+	"OutputStack": 2,
+	"OutputMaxStack": 4,
+	"Sounds": [ "Ship" ]
+ 	},
+
+	{ // Pumpkin Oil
+	"ProducerName": "Oil Maker",
+	"InputIdentifier": "Pumpkin",
+	"MinutesUntilReady": 500,
+	"KeepInputQuality": true,
+	"OutputIdentifier": "Oil",
+	"Probability": "0.1",
+	"OutputStack": 4,
+	"OutputMaxStack": 8,
+	"Sounds": [ "Ship" ]
+	},
+
+	{ // Truffle Oil
+	"ProducerName": "Oil Maker",
+	"InputIdentifier": "Truffle",
+	"MinutesUntilReady": 500,
+	"KeepInputQuality": true,
+	"OutputIdentifier": "Truffle Oil",
+	"Probability": "0.1",
+	"OutputStack": 1,
+	"OutputMaxStack": 3,
+	"Sounds": [ "Ship" ]
+ 	}
+
+]

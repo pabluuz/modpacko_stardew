@@ -1,0 +1,11 @@
+{
+    "Name": "Robin Spouse Room",
+    "Author": "Pseudodiego",
+    "Version": "1.0",
+    "Description": "Xtardew Robin Spouse Room",
+    "UniqueID": "Pseudodiego.RoomRobin",
+    "UpdateKeys": [""],
+    "ContentPackFor": {
+       "UniqueID": "Platonymous.TMXLoader",
+    }
+ }

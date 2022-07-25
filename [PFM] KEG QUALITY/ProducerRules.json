@@ -1,0 +1,684 @@
+[
+	//Special Keg
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Sweet Gem Berry",	// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Hops",		// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 2250,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Pale Ale",		// Item
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Tea Leaves",		// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 180,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Green Tea",	// Item
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Coffee Bean",	// Fruit or Vegetable
+	"InputStack": 5,			// Stack to process
+	"MinutesUntilReady": 120,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Coffee",		// Item
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Wheat",		// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 1750,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Beer",		// Item
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	///////////////////////////////////////////////////////////////
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "fruit_item",	// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	///////////////////////////////////////////////////////////////
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Ancient Fruit",	// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Starfruit",		// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Blueberry",		// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Coconut",		// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Grape",		// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Pineapple",		// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Cranberries",	// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Strawberry",	// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Cactus Fruit",	// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Rhubarb",		// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},	
+
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Hot Pepper",	// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Melon",		// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Qi Fruit",		// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "fruit_item",	// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Wild Plum",		// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Blackberry",	// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Crystal Fruit",	// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Salmonberry",	// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+
+	{
+	"ProducerName": "Keg",			// Machine
+	"InputIdentifier": "Spice Berry",	// Fruit or Vegetable
+	"InputStack": 1,			// Stack to process
+	"MinutesUntilReady": 10000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Wine",		// Item
+	"PreserveType": "Wine",			// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 3,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	//////////////////////////////////////////////////////////////////////
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Cauliflower",			// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Amaranth",				// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Corn",				// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Eggplant",				// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Green Bean",			// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Tomato",				// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Potato",				// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Pumpkin",				// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Garlic",				// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Taro Root",				// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Artichoke",				// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Yam",				// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Beet",				// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Bok Choy",				// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Fiddlehead Fern",			// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Kale",				// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Unmilled Rice",			// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Red Cabbage",			// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Radish",				// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Keg",					// Machine
+	"InputIdentifier": "Parsnip",				// Fruit or Vegetable
+	"InputStack": 1,					// Stack to process
+	"MinutesUntilReady": 6000,				// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Juice",				// Item
+	"PreserveType": "Juice",				// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+        "OutputPriceMultiplier": 2.25,				// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,					// STACKP
+	"Sounds": [ "Ship" ]
+	}
+]

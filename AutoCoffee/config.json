@@ -1,0 +1,20 @@
+{
+  "coffeeDeffinition": [
+    [
+      395,
+      120,
+      2
+    ],
+    [
+      253,
+      300,
+      2
+    ]
+  ],
+  "coffeeButton": "Q",
+  "stackAmount": 2,
+  "autoDrink": false,
+  "autoToggleButton": "Space",
+  "logToCosole": true,
+  "baseBuffID": 880
+}

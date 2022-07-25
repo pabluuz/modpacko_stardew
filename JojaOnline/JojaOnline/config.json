@@ -1,0 +1,9 @@
+{
+  "areAllSeedsAvailableBeforeYearOne": false,
+  "doCopyPiereeSeedStock": true,
+  "giveJojaMemberDiscount": false,
+  "giveJojaPrimeShipping": false,
+  "minSalePercentage": 5,
+  "maxSalePercentage": 35,
+  "itemNameToPriceOverrides": {}
+}

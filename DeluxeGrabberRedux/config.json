@@ -1,0 +1,18 @@
+{
+  "slimeHutch": true,
+  "farmCaveMushrooms": true,
+  "harvestCrops": true,
+  "harvestCropsIndoorPots": true,
+  "harvestCropsRange": 5,
+  "harvestCropsRangeMode": "Square",
+  "artifactSpots": true,
+  "orePan": true,
+  "bushes": true,
+  "fruitTrees": true,
+  "seedTrees": true,
+  "flowers": true,
+  "reportYield": true,
+  "gainExperience": true,
+  "fellSecretWoodsStumps": true,
+  "garbageCans": true
+}

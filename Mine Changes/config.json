@@ -1,0 +1,36 @@
+{
+  "mapLayout": {
+    "minStonePerDenominator": 10,
+    "maxStonePerDenominator": 30,
+    "stoneDenominator": 100.0,
+    "minMonsterChance": 0.0002,
+    "maxRandomMonsterPerDenominator": 200,
+    "maxRandomMonsterDenominator": 10000.0,
+    "itemOnFloorChance": 0.0025,
+    "gemStoneChanceDoubled": 0.003,
+    "barrelLuckMultiplier": 40.0,
+    "chanceForIceCrystals": 0.15,
+    "chanceForMushrooms": 0.55,
+    "chanceMonsterHasSpecialItem": 0.00175,
+    "chanceForBigBolder": 0.005
+  },
+  "stoneChances": {
+    "CopperChanceUpToLevel40": 0.08899999916553497,
+    "IronChanceFromLevel40To80": 0.08899999916553497,
+    "GoldChanceFromLevel80To120": 0.08899999916553497,
+    "SkullMineBaseOreChance": 0.06999999955296517,
+    "SkullMineBaseOreChancePerLevel": 0.0005000000237487257,
+    "IridiumBaseChance": 0.0012000000142492354,
+    "GoldChanceSkullMine": 0.029999999776482583,
+    "GoldChanceSkullMinePerLevelBoost": 0.0025000000237487257,
+    "SkullMineMaxIronChance": 0.5,
+    "IronChanceSkullMinePerLevelBoost": 0.014999999888241291,
+    "ChanceModifierPerMiningLevel": 0.0015000000237487257,
+    "GemChancePerLevelDenominator": 24000.0,
+    "ChanceForPurpleStonePerMiningLevel": 0.00800000037997961,
+    "ChanceForMysthicStonePerMiningLevel": 0.00800000037997961
+  },
+  "breakStones": [],
+  "stoneReplacements": [],
+  "itemReplacements": []
+}

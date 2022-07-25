@@ -1,0 +1,11 @@
+{
+    "Name": "Jodi Spouse Room",
+    "Author": "Pseudodiego",
+    "Version": "1.0",
+    "Description": "Xtardew Jodi Spouse Room",
+    "UniqueID": "Pseudodiego.RoomJodi",
+    "UpdateKeys": [""],
+    "ContentPackFor": {
+       "UniqueID": "Platonymous.TMXLoader",
+    }
+ }

@@ -1,0 +1,18 @@
+﻿{
+  "Name": "[PFM] Preservar Jar Extra",
+  "Author": "GranAnt",
+  "Version": "1.0.1",
+  "Description": "Encurtidos de forrage.",
+  "UniqueID": "GranAnt.PreservarJarExtra",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ "Nexus:9555" ],
+  "Dependencies": [
+    {
+      "UniqueID": "Digus.ProducerFrameworkMod",
+      "MinimumVersion": "1.4.0"
+    }
+  ],
+  "ContentPackFor": {
+    "UniqueID": "Digus.ProducerFrameworkMod"
+  }
+}

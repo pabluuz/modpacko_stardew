@@ -1,0 +1,214 @@
+[
+	//Hongos
+	{
+	"ProducerName": "Preserves Jar",	// Machine
+	"InputIdentifier": "Purple Mushroom",	// Fruit or Vegetable
+	"MinutesUntilReady": 4000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Pickles",		// Item
+	"PreserveType": "Pickle",		// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+	"OutputPriceIncrement": 50,
+        "OutputPriceMultiplier": 2,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Preserves Jar",	// Machine
+	"InputIdentifier": "Red Mushroom",	// Fruit or Vegetable
+	"MinutesUntilReady": 4000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Pickles",		// Item
+	"PreserveType": "Pickle",		// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+	"OutputPriceIncrement": 50,
+        "OutputPriceMultiplier": 2,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Preserves Jar",	// Machine
+	"InputIdentifier": "Chanterelle",	// Fruit or Vegetable
+	"MinutesUntilReady": 4000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Pickles",		// Item
+	"PreserveType": "Pickle",		// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+	"OutputPriceIncrement": 50,
+        "OutputPriceMultiplier": 2,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Preserves Jar",	// Machine
+	"InputIdentifier": "Common Mushroom",	// Fruit or Vegetable
+	"MinutesUntilReady": 4000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Pickles",		// Item
+	"PreserveType": "Pickle",		// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+	"OutputPriceIncrement": 50,
+        "OutputPriceMultiplier": 2,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Preserves Jar",	// Machine
+	"InputIdentifier": "Morel",		// Fruit or Vegetable
+	"MinutesUntilReady": 4000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Pickles",		// Item
+	"PreserveType": "Pickle",		// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+	"OutputPriceIncrement": 50,
+        "OutputPriceMultiplier": 2,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Preserves Jar",	// Machine
+	"InputIdentifier": "Magma Cap",	// Fruit or Vegetable
+	"MinutesUntilReady": 4000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Pickles",		// Item
+	"PreserveType": "Pickle",		// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+	"OutputPriceIncrement": 50,
+        "OutputPriceMultiplier": 2,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	//Recolectables
+	{
+	"ProducerName": "Preserves Jar",	// Machine
+	"InputIdentifier": "Cave Carrot",	// Fruit or Vegetable
+	"MinutesUntilReady": 4000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Pickles",		// Item
+	"PreserveType": "Pickle",		// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+	"OutputPriceIncrement": 50,
+        "OutputPriceMultiplier": 2,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Preserves Jar",	// Machine
+	"InputIdentifier": "Winter Root",	// Fruit or Vegetable
+	"MinutesUntilReady": 4000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Pickles",		// Item
+	"PreserveType": "Pickle",		// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+	"OutputPriceIncrement": 50,
+        "OutputPriceMultiplier": 2,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Preserves Jar",	// Machine
+	"InputIdentifier": "Spring Onion",	// Fruit or Vegetable
+	"MinutesUntilReady": 4000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Pickles",		// Item
+	"PreserveType": "Pickle",		// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+	"OutputPriceIncrement": 50,
+        "OutputPriceMultiplier": 2,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Preserves Jar",	// Machine
+	"InputIdentifier": "Leek",		// Fruit or Vegetable
+	"MinutesUntilReady": 4000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Pickles",		// Item
+	"PreserveType": "Pickle",		// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+	"OutputPriceIncrement": 50,
+        "OutputPriceMultiplier": 2,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Preserves Jar",	// Machine
+	"InputIdentifier": "Wild Horseradish",	// Fruit or Vegetable
+	"MinutesUntilReady": 4000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Pickles",		// Item
+	"PreserveType": "Pickle",		// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+	"OutputPriceIncrement": 50,
+        "OutputPriceMultiplier": 2,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Preserves Jar",	// Machine
+	"InputIdentifier": "Snow Yam",	// Fruit or Vegetable
+	"MinutesUntilReady": 4000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Pickles",		// Item
+	"PreserveType": "Pickle",		// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+	"OutputPriceIncrement": 50,
+        "OutputPriceMultiplier": 2,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Preserves Jar",	// Machine
+	"InputIdentifier": "Holly",	// Fruit or Vegetable
+	"MinutesUntilReady": 4000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Pickles",		// Item
+	"PreserveType": "Pickle",		// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+	"OutputPriceIncrement": 50,
+        "OutputPriceMultiplier": 2,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	},
+	{
+	"ProducerName": "Preserves Jar",	// Machine
+	"InputIdentifier": "Hazelnut",		// Fruit or Vegetable
+	"MinutesUntilReady": 4000,		// Time
+	"SubtractTimeOfDay": true,
+	"OutputIdentifier": "Pickles",		// Item
+	"PreserveType": "Pickle",		// ItemType
+	"KeepInputParentIndex": true,
+	"InputPriceBased": true,
+	"OutputPriceIncrement": 50,
+        "OutputPriceMultiplier": 2,		// Price
+	"KeepInputQuality": true,
+	"OutputStack": 1,			// STACKP
+	"Sounds": [ "Ship" ]
+	}
+]

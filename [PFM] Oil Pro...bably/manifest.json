@@ -1,0 +1,18 @@
+﻿{
+  "Name": "[PFM] Oil Pro...bably",
+  "Author": "GranAnt",
+  "Version": "1.0",
+  "Description": "La suerte decide con tus aceites.",
+  "UniqueID": "ga.oilprobably",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ "Nexus:9458" ],
+  "Dependencies": [
+    {
+      "UniqueID": "Digus.ProducerFrameworkMod",
+      "MinimumVersion": "1.4.0"
+    }
+  ],
+  "ContentPackFor": {
+    "UniqueID": "Digus.ProducerFrameworkMod"
+  }
+}
